@@ -1,9 +1,7 @@
 # 深度残差度量学习用于基于视频监控的情感计算中的行人再识别
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Lmy0217/DRML/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Lmy0217/DRML/pulls) [![English](https://img.shields.io/badge/README-English-blue.svg)](README.md)
 
-[English](README.md)
-
-本项目提出了新颖的深度残差度量学习方法用于行人再识别问题，**首次将深度残差网络与度量学习相结合**。
+本项目提出了新颖的深度残差度量学习方法用于行人再识别问题，**首次将深度残差网络与度量学习相结合**。论文[下载](ASMMC2017.pdf)。
 
 ## 环境
 * 系统：Ubuntu 14.04 LTS、CPU i7-3770 @ 3.40GHz×8、GPU GT 630、内存 4G

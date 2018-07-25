@@ -1,9 +1,8 @@
 # Deep Residual Metric Learning for Human Re-identification in Video Surveillance-based Affective Computing
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Lmy0217/DRML/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Lmy0217/DRML/pulls) [![简体中文](https://img.shields.io/badge/README-简体中文-blue.svg)](README_zh.md)
 
-[中文](README_zh.md)
 
-This project is a novel deep residual metric learning (DRML) method for person re-identification, and this method **combines deep residual networks with metric learning for the first time**.
+This project is a novel deep residual metric learning (DRML) method for person re-identification, and this method **combines deep residual networks with metric learning for the first time**. Get paper [here](ASMMC2017.pdf).
 
 ## Installation
 * Operating system: Ubuntu 14.04 LTS, CPU i7-3770 @ 3.40GHz×8, GPU GT 630, Memory 4G
