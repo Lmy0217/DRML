@@ -37,11 +37,11 @@ FullScale could get higher P-R curve with more time.
 ## Citation
 If you find this branch useful in your research, please consider citing:
 ```
-@article{luo2017deep,
-  title={Deep Residual Metric Learning for Human Re-identification in Video Surveillance-based Affective Computing},
-  author={Mingyuan Luo, Wei Huang, Peng Zhang, Jing Li, Min Wan, Huijun Ding, Guang Chen},
+@article{luo2018deep,
+  title={Deep Full-scaled Metric Learning for Pedestrians Re-identification: A Pre-requisite Study on Multi-camera-based Affective Computing},
+  author={Wei Huang, Mingyuan Luo, Peng Zhang},
   journal={Affective Social Multimedia Computing (ASMMC)},
-  year={2017}
+  year={2018}
 }
 ```
 
