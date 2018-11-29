@@ -1,8 +1,7 @@
 # FullScale 分支
+[![English](https://img.shields.io/badge/README-English-blue.svg)](README.md)
 
-[English](README.md)
-
-本分支是 [master 分支](https://github.com/Lmy0217/DRML)的额外模块，其中全尺度 (FullScale) 模型使用改进的 [Continuous Kendall–Tau](http://www.sciencedirect.com/science/article/pii/S0165168415002686) (CKT) 损失函数进行训练。
+本分支是 [master 分支](https://github.com/Lmy0217/DRML)的额外模块，其中全尺度 (FullScale) 模型使用改进的 [Continuous Kendall–Tau](http://www.sciencedirect.com/science/article/pii/S0165168415002686) (CKT) 损失函数进行训练。论文[下载](ASMMC2018.pdf)。
 
 在 master 分支主文件夹 `DRML` 内克隆本分支
 

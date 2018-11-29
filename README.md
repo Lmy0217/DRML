@@ -1,8 +1,8 @@
 # FullScale branch
+[![简体中文](https://img.shields.io/badge/README-简体中文-blue.svg)](README_zh.md)
 
-[中文](README_zh.md)
+This branch is extra module which is based on [master branch](https://github.com/Lmy0217/DRML), in which FullScale model use modified [Continuous Kendall–Tau](http://www.sciencedirect.com/science/article/pii/S0165168415002686) (CKT) loss function to train. Get paper [here](ASMMC2018.pdf).
 
-This branch is extra module which is based on [master branch](https://github.com/Lmy0217/DRML), in which FullScale model use modified [Continuous Kendall–Tau](http://www.sciencedirect.com/science/article/pii/S0165168415002686) (CKT) loss function to train.
 
 Clone this branch in master branch home folder `DRML` as
 
